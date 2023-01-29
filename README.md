@@ -3,7 +3,7 @@ Vanilla Advanced is a fabric modpack designed to provide an enhanced Vanilla Min
 Serveral mods for improved world generation, more items, mobs and quality of life improvements are included.
 
 Over the time we will continue to test and add mods.
-We will also keep the server list up to date to add further performance improvements and integrations on the server side of things.
+We will also keep the server list up to date and aim to add further performance improvements and integrations on the server side of things.
 
 Current version is **Minecraft Java Edition 1.19.2**
 
@@ -24,6 +24,14 @@ To quickly find your mods folder do the following:
 In a standard environment you will now find yourself in your Minecraft folder.
 Navigate to the "mods" folder or create it if not there.
 After that simply move all files from the "Vanilla Advanced" folder into your "mods" folder.
+
+## Shaders
+This modpack works with Iris shaders.
+Since Iris can be troublesome with some of the mods, we include a working version into our pack.
+All thats left to do is to simply download your favourite shader and add it to your "shaderpacks" folder :)
+Credit goes to [Iris Shaders](https://irisshaders.net) and the creators of [Indium](https://www.curseforge.com/minecraft/mc-mods/indium).
+
+We recommend the Complementary Shaders!
 
 ## Modlist
 * Adorn
