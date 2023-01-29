@@ -12,11 +12,17 @@ Current version is **Minecraft Java Edition 1.19.2**
 ### Fabric
 Installing this modpack is super easy once fabric is set up.
 To install fabric please follow the instructions on [their website](https://fabricmc.net/).
-The fastest for unexperienced modders is to use their [fabric installer](https://fabricmc.net/use/installer/)
+The fastest way for unexperienced modders and experts alike is to use their [fabric installer](https://fabricmc.net/use/installer/)
 
 ### Installing the mods
-After installing fabric simply navigate to your Minecraft mods folder and move all the files in there.
-To quickly find your mods folder do the following:
+You can find the latest files [here](https://github.com/Scimir/Vanilla-Advanced/releases/latest).
+Download the zip file at the bottom of the page by clicking on it and unzip it once it finished downloading.
+After you unpacked it, you'll find two folders:
+* Vanilla Advanced - Includes all the mods that you can simply drag in your "mods" folder
+* Vanilla Advanced Server - Also includes the server side mods for fabric Minecraft servers
+
+Afterwards you can simply copy all the mods from the "Vanilla Advanced" folder into your "mods" folder.
+To quickly find your Minecraft folder do the following:
 1. Press Win + R
 2. Paste the following path %appdata%\\.minecraft\\
 3. Hit enter
@@ -24,6 +30,8 @@ To quickly find your mods folder do the following:
 In a standard environment you will now find yourself in your Minecraft folder.
 Navigate to the "mods" folder or create it if not there.
 After that simply move all files from the "Vanilla Advanced" folder into your "mods" folder.
+
+Now start up the game and enjoy!
 
 ## Shaders
 This modpack works with Iris shaders.
