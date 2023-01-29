@@ -1,0 +1,62 @@
+* Adorn
+* Animal Feeding Trough
+* Architectury
+* Autopath
+* Backslots
+* Bclib
+* Better End
+* Better Nether
+* Better Village
+* Bookshelf
+* Capybara
+* Carrier
+* Charm
+* Cloth*config
+* Couplings
+* Croptopia
+* Enchantment Descriptions
+* Fabric Api
+* Fabric Language Kotlin
+* Geckolib
+* Gilded Armor
+* Grizzly Bear
+* Guard Villagers
+* Herds Panic
+* Immersive Aircraft
+* Immersive Paintings
+* Immersive Portals
+* Indium
+* Iris
+* Just Enough Items
+* Kiwi Library
+* Lapis Reserve
+* Library Ferret
+* Lovely Snails
+* Mega Parrot
+* More Villagers
+* Motschens Puddles
+* Platforms
+* Presence Footsteps
+* Quartz Elevator
+* Realistic Fire Spread
+* Repurposed Structures
+* Ruined Equipment
+* Simple Backpack
+* Skylorlib
+* Snow Real Magic
+* Stoneholm
+* The Graveyard
+* This Rocks!
+* Travelers Titles
+* Untitledduckmod
+* William Wythers' Overhauled Overworld
+* Wondrouswilds
+* XP Storage
+* Yungs BetterDesertTemples
+* Yungs BetterDungeons
+* Yungs BetterMineshafts
+* Yungs BetterStrongholds
+* Yungs BetterWitchHuts
+* Yungs Bridges
+* Yungs Extras
+* YungsApi

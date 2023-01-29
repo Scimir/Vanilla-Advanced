@@ -30,11 +30,13 @@ After that simply move all files from the "Vanilla Advanced" folder into your "m
 * Animal Feeding Trough
 * Architectury
 * Autopath
+* Backslots
 * Bclib
 * Better End
 * Better Nether
 * Better Village
 * Bookshelf
+* Capybara
 * Carrier
 * Charm
 * Cloth*config
@@ -48,29 +50,36 @@ After that simply move all files from the "Vanilla Advanced" folder into your "m
 * Grizzly Bear
 * Guard Villagers
 * Herds Panic
-* Immersive Portals
+* Immersive Aircraft
 * Immersive Paintings
+* Immersive Portals
+* Indium
+* Iris
+* Just Enough Items
+* Kiwi Library
 * Lapis Reserve
 * Library Ferret
 * Lovely Snails
 * Mega Parrot
 * More Villagers
 * Motschens Puddles
+* Platforms
 * Presence Footsteps
+* Quartz Elevator
 * Realistic Fire Spread
 * Repurposed Structures
 * Ruined Equipment
 * Simple Backpack
 * Skylorlib
+* Snow Real Magic
 * Stoneholm
 * The Graveyard
 * This Rocks!
 * Travelers Titles
 * Untitledduckmod
-* Wondrouswilds
 * William Wythers' Overhauled Overworld
+* Wondrouswilds
 * XP Storage
-* YungsApi
 * Yungs BetterDesertTemples
 * Yungs BetterDungeons
 * Yungs BetterMineshafts
@@ -78,6 +87,7 @@ After that simply move all files from the "Vanilla Advanced" folder into your "m
 * Yungs BetterWitchHuts
 * Yungs Bridges
 * Yungs Extras
+* YungsApi
 
 ## Credit
 This modpack is inspired by [PwrDown's](https://www.youtube.com/@PwrDown) videos.
