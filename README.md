@@ -77,8 +77,6 @@ We recommend the Complementary Shaders!
 * Lapis Reserve
 * Library Ferret
 * Lovely Snails
-* Macaw's Bridges
-* Macaw's Lights and Lamps
 * Macaw's Roofs
 * Mega Parrot
 * Moonlight Library
@@ -96,7 +94,6 @@ We recommend the Complementary Shaders!
 * Snow Real Magic
 * Sodium
 * Stoneholm
-* The Graveyard
 * This Rocks!
 * Travelers Titles
 * Untitledduckmod
