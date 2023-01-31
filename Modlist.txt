@@ -1,13 +1,13 @@
 * Adorn
 * Animal Feeding Trough
 * Architectury
-* Autopath
 * Backslots
 * Bclib
 * Better End
 * Better Nether
 * Better Village
 * Bookshelf
+* Bountiful
 * Capybara
 * Carrier
 * Charm
@@ -28,13 +28,19 @@
 * Indium
 * Iris
 * Just Enough Items
+* Kambrik
 * Kiwi Library
 * Lapis Reserve
 * Library Ferret
 * Lovely Snails
+* Macaw's Bridges
+* Macaw's Lights and Lamps
+* Macaw's Roofs
 * Mega Parrot
+* Moonlight Library
 * More Villagers
 * Motschens Puddles
+* Nyfs Spiders
 * Platforms
 * Presence Footsteps
 * Quartz Elevator
