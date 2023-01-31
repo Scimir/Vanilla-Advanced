@@ -45,7 +45,6 @@ We recommend the Complementary Shaders!
 * Adorn
 * Animal Feeding Trough
 * Architectury
-* Autopath
 * Backslots
 * Bclib
 * Better End
