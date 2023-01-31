@@ -51,6 +51,7 @@ We recommend the Complementary Shaders!
 * Better Nether
 * Better Village
 * Bookshelf
+* Bountiful
 * Capybara
 * Carrier
 * Charm
@@ -71,13 +72,19 @@ We recommend the Complementary Shaders!
 * Indium
 * Iris
 * Just Enough Items
+* Kambrik
 * Kiwi Library
 * Lapis Reserve
 * Library Ferret
 * Lovely Snails
+* Macaw's Bridges
+* Macaw's Lights and Lamps
+* Macaw's Roofs
 * Mega Parrot
+* Moonlight Library
 * More Villagers
 * Motschens Puddles
+* Nyfs Spiders
 * Platforms
 * Presence Footsteps
 * Quartz Elevator
@@ -87,6 +94,7 @@ We recommend the Complementary Shaders!
 * Simple Backpack
 * Skylorlib
 * Snow Real Magic
+* Sodium
 * Stoneholm
 * The Graveyard
 * This Rocks!
